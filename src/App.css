@@ -1,0 +1,34 @@
+button{
+  color: red;
+  height: 30px;
+  width: 50px;
+  padding: 3px;
+  margin-right: 10px;
+}
+.row{
+  margin: 5px;
+  border: 5px solid;
+  text-align: center;
+  width: 359px;
+  background-color: palegreen;
+}
+img{
+  width: 300px;
+}
+.container{
+  float: left;
+  background-color: orange;
+  margin-bottom: 10px;
+}
+h1{
+  color:red;
+  text-align: center;
+  font-size: 40px;
+}
+.rtext{
+  text-align: center;
+  font-size: 25px;
+}
+input{
+  margin-left: 650px;
+}
